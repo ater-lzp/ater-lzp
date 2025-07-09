@@ -1,10 +1,9 @@
 <div id="title" align=center>
 <!-- 统计 -->
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ater-lzp&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=dark" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ater-lzp&show_icons=true&theme=dark&hide_title=true" /> </div>
 <!-- 语言统计 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ater-lzp&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=dark" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ater-lzp&layout=compact&theme=dark&hide_title=true" /> </div>
 <!-- 访问量统计 -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 <!-- 徽章 -->
 <span >
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
