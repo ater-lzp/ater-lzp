@@ -1,7 +1,5 @@
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ater-lzp&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
@@ -17,5 +15,3 @@
 ![头像](images/295a47c101de6953f5d10d0d6cc1d9b5398499399.png)
 
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
-
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
