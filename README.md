@@ -1,9 +1,10 @@
-<div id="title" align=center>
+<div id="title" style="width: 100%" align=center>
+<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; margin:  20px 0;" > 
 <!-- 统计 -->
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ater-lzp&show_icons=true&theme=dark&hide_title=true" /> </div>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ater-lzp&show_icons=true&theme=dark&hide_title=true" /> 
 <!-- 语言统计 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ater-lzp&layout=compact&theme=dark&hide_title=true" /> </div>
-<!-- 访问量统计 -->
+<img   height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ater-lzp&layout=compact&theme=dark&hide_title=true" />
+</div>
 <!-- 徽章 -->
 <span >
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
