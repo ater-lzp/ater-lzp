@@ -7,7 +7,7 @@
 <img   height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ater-lzp&layout=compact&theme=dark&hide_title=true" />
 </div>
 <!-- 徽章 -->
-<span >
+<div align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css" />
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/-React-rgb(8, 126, 164)?style=flat-square&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-Express-gray?style=flat-square&logo=Express" />
-</span>
+</div>
 
 <!-- ![](https://img.shields.io/badge/讨厌-学习-yellow)
 ![](https://img.shields.io/badge/性格-开朗-red)
